@@ -6,9 +6,10 @@ If the text field is empty as the button gets pressed, the text changes to "Hell
 By clicking on the background, the user is able to return to the original settings.
 
 ### App Walk-though
-<img src="https://github.com/Sepora-Ruppert/MyRepository/blob/master/Y4ojF00161.gif
 " width=200><br>
 ![Y4ojF00161.gif]
+
+![HelloSephora](MyRepository/blob/master/Y4ojF00161.gif)
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
